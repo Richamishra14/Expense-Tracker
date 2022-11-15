@@ -1,6 +1,6 @@
 # Expense Tracker (React)
-
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
+Made by Team members Member1 (Adarsh Satyam) & Member2 (Richa mishra).
+It uses functional components with hooks and the context API, Also React Hooks, components, props, useState(), useffect(), useContext(), createContext() handling HTML input in React. Redux useReducer(), action, dispatch. CSS styles with Grid and flexbox. 
 
 ## Usage
 ```
@@ -10,6 +10,5 @@ npm install
 npm start
 
 # Build for prod
-npm run build
-```
+npm 
 
